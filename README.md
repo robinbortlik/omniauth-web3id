@@ -38,6 +38,12 @@ end
 
 - Please refer to [example rails application](https://github.com/robinbortlik/web3id-rails)
 
+## Showcase
+
+
+https://user-images.githubusercontent.com/228502/184993116-945f2cb3-70d3-4902-b7ac-81c23e5892ac.mov
+
+
 ## Final note
 
 This gem was heavily inspired by [omniauth-microsoft-office365](https://github.com/murbanski/omniauth-microsoft-office365) gem. Thank you guys for your hard work.
